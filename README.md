@@ -48,3 +48,29 @@ This concept improves code **flexibility**, **reusability**, and **maintainabili
 - Enhances readability
 - Simplifies maintenance
 - Plays a key role in real-world object modeling
+
+  
+## CODE 01: Payment System 
+Real-World E-Commerce
+An online store accepts different payment methods (Cash, Credit Card, PayPal).
+Each payment method processes payment differently.
+## Polymorphism Concept
+Method overriding using base class reference
+
+<img width="1305" height="893" alt="Screenshot 2025-12-28 130142" src="https://github.com/user-attachments/assets/b11f286f-9e46-4b0c-84eb-93ebe66c52e3" />
+
+## CODE 02: Vehicle Speed Control 
+Transport System
+Different vehicles calculate speed differently.
+## Polymorphism Concept
+Override method with real-life logic
+
+<img width="1335" height="895" alt="Screenshot 2025-12-28 130406" src="https://github.com/user-attachments/assets/e970b4a3-107c-4a8a-8f56-1f53c153a2e6" />
+
+## CODE 03: Employee Salary System
+Different employees calculate salary differently.
+## Polymorphism Concept
+Business logic example
+
+<img width="1337" height="880" alt="Screenshot 2025-12-28 130536" src="https://github.com/user-attachments/assets/bff56c2c-d623-42ec-ab9a-ce90d9032619" />
+
